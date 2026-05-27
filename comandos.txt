@@ -1,0 +1,8 @@
+ls = lista o conteudo da pasta
+cd "nome do caminho" = entra no destino
+mdkir "nome da pasta" = cria pasta
+cd .. = volta a pasta
+clear = limpar terminal
+ls -a = mostra arquivos ocultos
+git init . = vira uma pasta especial para versionar ela torna ela um repositório
+pwd = mostra o caminho real da pasta
