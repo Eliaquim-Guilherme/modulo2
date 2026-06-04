@@ -1,0 +1,28 @@
+body{
+    background-color: olivedrab;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+h1{
+    color:azure;
+    text-align: center;
+    font-size: 32px
+}
+.card{
+    background-color: brown;
+    width: 500px;
+    height: auto;
+    margin: 50px auto; /*Margem externa da div*/
+    padding: 30px; /*Margem interna da div*/
+    border: 2px solid white; /*borda da div*/
+}
+h2{
+    color: azure;
+}
+
+#texto{
+    font-size: 10px;
+}
